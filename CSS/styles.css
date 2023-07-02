@@ -1,0 +1,134 @@
+ body{
+    margin: 0px;
+    text-align: center;
+}
+.top{
+    background-color: #E4F9F5;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    position: relative;
+}
+.mid{
+    margin-top: 20px;
+    
+}
+.bottom{
+    height: 120px;
+    background-color: #66BFBF;
+    margin-top: 30px;
+    color: white;
+    font-family: 'Sacramento', cursive;
+    font-size: x-large;
+}
+
+h1{
+    
+    display: inline-block;
+    margin-top: 100px;
+    font-family: 'Sacramento', cursive;
+    color:#1B9C85 ;
+    font-size: 3em;
+    margin-bottom: 2px;   
+}
+
+h3{
+    color: #66BFBF;
+    font-weight: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+h2{
+    color:#1B9C85 ;
+    font-weight: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+}
+.p1{
+    margin-top:0px;
+    font-size: 2em;
+    color:#1B9C85 ;
+    
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 2;
+}
+hr{
+    border-style: dotted;
+    border-color:#1B9C85  ;
+    border-width: 10px;
+    border-top-width: 0px;
+    width: 50px;
+}
+
+
+.topcloud{
+    position: absolute;
+    margin-left: 350px;
+    margin-top: 30px;
+
+}
+
+.botcloud{
+    position: absolute;
+}
+
+.skills{
+    margin-top:30px;
+
+}
+.skill-row{
+    width: 50%;
+    text-align: left;
+    margin-left: 400px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    line-height: 2;
+
+}
+
+.code{
+    width: 25%;
+    float: left;
+    margin-right: 50px;
+
+
+}
+.trophy{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    
+    
+}
+button{
+    background-color: #66BFBF;
+    color: antiquewhite;
+    border: none;
+    border-radius: 10%;
+    height: 40px;
+    width: 110px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+}
+.contact{
+    margin-top: 30px
+}
+.footer-link{
+    margin-left: 20px;
+    color: #11999E;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
